@@ -84,5 +84,8 @@ elf.setFixedSize(263,475)
 ``````
 self.login_btn.clicked.connect()
 ``````
-
+## 로그인 화면
 ![image](https://github.com/hms45/Autoclass/assets/162997474/4e999f2a-8a2c-4f6b-b635-0fd41094d6a5)
+
+## 메인 페이지
+![image](https://github.com/hms45/Autoclass/assets/162997474/98c2d836-d99c-41ce-b86a-7b069d6fc433)
