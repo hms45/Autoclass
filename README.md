@@ -83,6 +83,6 @@ elf.setFixedSize(263,475)
 ## 로그인 버튼 활성화
 ``````
 self.login_btn.clicked.connect()
-```
+``````
 
 ![image](https://github.com/hms45/Autoclass/assets/162997474/4e999f2a-8a2c-4f6b-b635-0fd41094d6a5)
